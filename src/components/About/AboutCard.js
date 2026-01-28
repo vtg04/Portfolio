@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Vinay Sadhwani </span>
             from <span className="purple"> Lucknow, India.</span>
-            <br /> I am a  pre-final year student pursuing BTech
-            in Information Technology at RGIPT.
+            <br /> I am a ML Engineer at Uravu Labs.
             <br />
             Data is not just about algorithms and statistics for me—it's a dynamic medium that requires creativity and a keen understanding of the human context. Whether it's crafting compelling visualizations 
             or building predictive models, I strive to bring a holistic perspective to every project. Explore my portfolio to witness the intersection of my technical skills and passion for problem-solving.
